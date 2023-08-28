@@ -17,7 +17,7 @@ My expertise lies in a diverse range of technologies, and I enjoy crafting seaml
 🌱 I’m currently improving my Node.js skills
 
 📫 How to reach me:
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavi-rupesh-gaikwad-17b0a015)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavi-rupesh-gaikwad)
  [![dev.to](https://img.shields.io/badge/-dev.to-black?style=flat&logo=dev.to&logoColor=white)](https://dev.to/madhavigaikwad).
 
 Let's build something amazing together! 🚀
