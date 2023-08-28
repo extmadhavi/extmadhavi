@@ -1,6 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile! I'm passionate about building awesome web and mobile applications. 
 My expertise lies in a diverse range of technologies, and I enjoy crafting seamless user experiences through elegant code.
+
 📱 **Mobile**: I specialize in ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat), creating mobile apps that combine performance with a native feel.
 
 🗄 **Backend**: I work with ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) to develop robust backend systems that power dynamic applications.
