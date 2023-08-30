@@ -6,8 +6,6 @@ My expertise lies in a diverse range of technologies, and I enjoy crafting seaml
 
 🗄 **Backend**: I work with ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) to develop robust backend systems that power dynamic applications.
 
-🛢 **Database**: I'm skilled in ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) and ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat), ensuring data is stored and managed effectively.
-
 ⚙️ **VCS**: Version control is my friend! I use ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) to keep my codebase organized and collaborate seamlessly.
 
 📱 **Mobile**: I specialize in ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat), creating mobile apps that combine performance with a native feel.
