@@ -8,7 +8,6 @@ My expertise lies in a diverse range of technologies, and I enjoy crafting seaml
 
 ⚙️ **VCS**: Version control is my friend! I use ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) to keep my codebase organized and collaborate seamlessly.
 
-📱 **Mobile**: I specialize in ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat), creating mobile apps that combine performance with a native feel.
 
 👯 I’m looking to collaborate on React, javascript , redux, typescript projects.
 
